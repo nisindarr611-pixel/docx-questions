@@ -1,0 +1,9 @@
+6.1, where cross sectional area is A, v_{0}.  The velocity of electron just the end of contraction at point B, where cross sectional area is 2A, is v_{1}. Find the correct option. 
+<img>
+ <img> a)
+ v1 < v_{0}b)
+ v_{1} = v_{0}c)
+ v_{1} > v_{0}d)
+  <eqn> 
+Key: c 
+Hint:As the electrons comes near the throat, positive charges are induced on the throat. The induced charges attract the electron and velocity increases. So v1 > v_{0}.
